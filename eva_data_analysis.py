@@ -163,6 +163,7 @@ def add_duration_hours(df):
 
 # Main code
 # just test the git branch   
+# just test the git branch again on my local machine
 if __name__ == "__main__":
     print("--START--")
     if len(sys.argv) <3:
