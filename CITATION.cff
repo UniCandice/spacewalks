@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'SpaceWalks '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Liyuan '
+    family-names: Liu
+    name-particle: Liyuan
+    email: liyuan.liu@uk-cpi.com
+    affiliation: CPI
